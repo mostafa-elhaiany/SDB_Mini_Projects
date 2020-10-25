@@ -68,15 +68,15 @@ Every directory holds the code used for each session given along with its docume
 CV lane Detection
 ```
 Holds The basic lane detection code, the pipeline used in this code is as follows 
-                1) Turn image into RGB colourspace
-                2) Resize image into a fixed width and height
-                3) Use a mask to detect the white colour inside the fram
-                4) Extract the region of interest of the frame
-                5) Convert to grayscale
-                6) Extract edges 
-                7) Extract Lines
-                8) Generate Image with only the lines present in the frame
-                9) Generate the final outcome with the lanes highlighted on the original frame
+                1) Turn image into RGB colourspace <br/>
+                2) Resize image into a fixed width and height <br/>
+                3) Use a mask to detect the white colour inside the frame <br/>
+                4) Extract the region of interest of the frame <br/>
+                5) Convert to grayscale <br/>
+                6) Extract edges  <br/>
+                7) Extract Lines <br/>
+                8) Generate Image with only the lines present in the frame <br/>
+                9) Generate the final outcome with the lanes highlighted on the original frame <br/>
 
 
 ### Running the code
