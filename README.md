@@ -82,14 +82,14 @@ Cifar10 Classification
 ```
 This was done to give you a basic understanding of a normal CNN pipeline.
 The pipeline used is as follows: <br/>
-            1) Load the dataset
-            2) Although we did not need to do it here, always clean your data
-            3) Visualize your data by plotting or showing the images
-            4) Build your model architecture
-            5) Compile the model with the needed loss and optimizer
-            6) Train the model
-            7) Evaluate the model
-            8) plot the results 
+            1) Load the dataset  <br/>
+            2) Although we did not need to do it here, always clean your data  <br/>
+            3) Visualize your data by plotting or showing the images  <br/>
+            4) Build your model architecture  <br/> 
+            5) Compile the model with the needed loss and optimizer  <br/>
+            6) Train the model  <br/>
+            7) Evaluate the model  <br/>
+            8) plot the results   <br/>
 
 
 ### Running the code
